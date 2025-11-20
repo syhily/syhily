@@ -20,6 +20,6 @@
    </a>
     &nbsp;
     <a align="center" href="https://github.com/bookstairs/bookhunter">
-        <img src="https://github-readme-stats-hectorqin.vercel.app/api/pin/?username=bookstairs&repo=bookhunter&theme=onedark&hide_border=true&bg_color=00000000&foreign_object=true&description_line_count=3" alt="JSFun-releases repo" width="390">
+        <img src="https://github-readme-stats-hectorqin.vercel.app/api/pin/?username=syhily&repo=yufan.me&theme=onedark&hide_border=true&bg_color=00000000&foreign_object=true&description_line_count=3" alt="JSFun-releases repo" width="390">
    </a>
 </p>
